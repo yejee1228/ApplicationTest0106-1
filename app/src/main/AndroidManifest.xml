@@ -10,10 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".UpdateActivity"></activity>
-        <activity android:name=".DetailActivity" />
-        <activity android:name=".ListActivity" />
-        <activity android:name=".LoginActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".Detail" />
+        <activity android:name=".MemberList" />
+        <activity android:name=".Login" />
+        <activity android:name=".Main">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
